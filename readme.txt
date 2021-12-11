@@ -1,6 +1,6 @@
 DayZ-WeaponRange - Made by sagpanda
 
-NOTE- This .json file will possibly only work on Next-Gen consoles due to the amount of items spawned in and the processing power 
+NOTE- This .json file will possibly only work on Next-Gen consoles (I use a series x) due to the amount of items spawned in and the processing power 
 required for them. (I haven't checked but from my experience of last gen I dont know if it could handle this)
 
 In the top right, press code and download the ZIP file. 
