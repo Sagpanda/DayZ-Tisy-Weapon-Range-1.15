@@ -4,5 +4,5 @@
 Place "WeaponRange.json" into your custom folder.
 add "custom/WeaponRange.json" too the objectSpawnersArr line in cfggameplay.json file.
 In your cfgplayerspawnpoints.xml file, add the co-ordinates x="1313.32" z="14484.58" so that you spawn at the Range.
-It is also advised that you remove all zombie and wolf spawns and aslo Artillery strikes from your server.
+It is also advised that you remove all zombie and wolf spawns and aslo Dynamic Toxic zones from your server.
 Thankyou and have fun :)
