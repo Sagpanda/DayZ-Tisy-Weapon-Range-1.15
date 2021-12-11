@@ -1,5 +1,5 @@
 # DayZ-WeaponRange
-*NOTE*- This .json file will possibly only work on Next-Gen consoles due to the amount of items spawned in and the processing power required for them.
+*NOTE*- This .json file will possibly only work on Next-Gen consoles due to the amount of items spawned in and the processing power required for them. (I haven't checked but from my experience of last gen I dont know if it could handle this)
 ---
 Place "WeaponRange.json" into your custom folder.
 add "custom/WeaponRange.json" too the objectSpawnersArr line in cfggameplay.json file.
