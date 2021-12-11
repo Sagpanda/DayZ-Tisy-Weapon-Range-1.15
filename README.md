@@ -3,5 +3,5 @@
 ---
 Place "WeaponRange.json" into your custom folder.
 add "custom/WeaponRange.json" too the objectSpawnersArr line in cfggameplay.json file.
-In your cfgplayerspawnpoints.xml file, add the co-ordinates <pos x="1313.32" z="14484.58" /> so that you spawn at the Range.
+In your cfgplayerspawnpoints.xml file, add the co-ordinates x="1313.32" z="14484.58" so that you spawn at the Range.
 Thankyou and have fun :)
